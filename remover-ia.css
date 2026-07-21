@@ -1,0 +1,20 @@
+/* 1. Oculta o botão "Modo IA" da página inicial (dentro da barra de pesquisa) */
+div[role="button"]:has(span:contains("Modo IA")),
+a:has(span:contains("Modo IA")),
+div:has(> button span:contains("Modo IA")) {
+    display: none !important;
+}
+
+/* 2. Oculta a aba "Modo IA" na barra superior dos resultados de busca */
+a[href*="udm="]:has(div:contains("Modo IA")),
+a[href*="udm="]:has(span:contains("Modo IA")),
+div[role="navigation"] a:has(div:contains("Modo IA")) {
+    display: none !important;
+}
+
+/* Regra abrangente de segurança baseada no texto */
+a[href*="udm=14"], 
+a[href*="ai"],
+div:has(> a[aria-label*="Modo IA"]) {
+    /* Oculta seletores diretos se o Google alterar as tags */
+}
