@@ -19,3 +19,5 @@ This extension does not support Firefox; the browsers supported by this extensio
 
 ## tutorial in opera/opera gx
 When you go to install the extension on Opera or Opera GX, you'll see that it doesn't work—but don't worry, I'll show you how to fix it. Click on this [tutorial](https://imgur.com/a/RU77HMb)
+
+Regarding the extension I recommended earlier in the text: when you download it for Opera or Opera GX, you'll notice it doesn't work—but don't worry, the method to fix this error is the same. Click here to resolve [it](https://imgur.com/a/n1VEDBa)
