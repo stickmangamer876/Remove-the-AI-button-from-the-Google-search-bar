@@ -4,7 +4,7 @@
 
 </div>
 
-Remove the AI button from the Google search bar This removes the Google AI button
+This removes the Google AI button
 
 ## how to download ?
 
