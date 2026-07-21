@@ -1,6 +1,6 @@
 <div align="center">
 
-# Remove-the-AI-button-from-the-Google-search-bar
+# Remove the AI button from the Google search bar
 
 </div>
 
